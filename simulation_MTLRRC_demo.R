@@ -15,7 +15,7 @@ source("generate_data.R")
 source("Initialize_R.R")
 
 
-#実験設定部分
+#settings
 n_k <- 200 #number of samples in each task
 n_kte <- 100 #number of samples for test data
 n_ktr <- 50  #number of samples for training data
